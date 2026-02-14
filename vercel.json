@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd icure-frontend && npm install && npm run build",
+  "outputDirectory": "icure-frontend/dist",
+  "installCommand": "cd icure-frontend && npm install"
+}
